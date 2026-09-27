@@ -1,3 +1,11 @@
+# Versi terbaru: v2
+
+[**Buka lima track terbaru di folder v2**](v2/README.md). Sampel, beat, bass, aransemen, dan bentuk drop dibedakan per track. Nama Track 01–05 masih sementara; judul final menyusul setelah hasil musik didengarkan.
+
+File pada direktori utama di bawah ini adalah versi sebelumnya.
+
+---
+
 # Reflex Damage Fix
 
 Strudel mini album by **Eign0x**. Track 1, **No warning**, is the reference for the sound of tracks 2–5: dark sub and Reese bass, raw/Amen breaks, short synth phrases, and metallic accents.

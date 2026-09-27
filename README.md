@@ -1,4 +1,10 @@
-# Versi terbaru: v2
+# Versi terbaru: v3
+
+[**Buka revisi terbaru Track 01–05**](v3/README.md). Track 02 dirapikan, Track 03 dipercepat dan dibedakan, Track 04 mendapat lead dan bass lebih kuat, Track 05 dipoles. Track 01 sama dengan v2. Judul masih sementara.
+
+---
+
+# Arsip: v2
 
 [**Buka lima track terbaru di folder v2**](v2/README.md). Sampel, beat, bass, aransemen, dan bentuk drop dibedakan per track. Nama Track 01–05 masih sementara; judul final menyusul setelah hasil musik didengarkan.
 

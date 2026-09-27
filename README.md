@@ -1,4 +1,10 @@
-# Versi terbaru: v3
+# Versi terbaru: v4
+
+[**Buka Track 01–05 versi v4**](v4/README.md). Track 02 dibangun ulang tanpa Plead; Track 03 memakai pola asimetris; Track 04 menjadi 196 BPM dengan drum cepat dan lead gelap; Track 05 mendapat hook baru. Judul masih sementara.
+
+---
+
+# Arsip: v3
 
 [**Buka revisi terbaru Track 01–05**](v3/README.md). Track 02 dirapikan, Track 03 dipercepat dan dibedakan, Track 04 mendapat lead dan bass lebih kuat, Track 05 dipoles. Track 01 sama dengan v2. Judul masih sementara.
 
